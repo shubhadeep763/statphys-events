@@ -12,7 +12,7 @@ const CONFIG = {
   // PUBLIC SUBMISSIONS: paste a Formspree (or Netlify/Tally) endpoint to let
   // visitors submit events to you for review. Leave "" to save to the
   // visitor's own browser only (not shared).
-  SUBMIT_ENDPOINT: "",        // e.g. "https://formspree.io/f/abcdwxyz"
+  SUBMIT_ENDPOINT: "https://formspree.io/f/mzdqdykj",        // e.g. "https://formspree.io/f/abcdwxyz"
 
   // AUTO-SEARCH (Tier 2/3): paste your serverless function URL to enable the
   // "Find new" button. Leave "" on pure static hosting (button is disabled).
