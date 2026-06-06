@@ -173,7 +173,6 @@ function HomePage({allEvents,gotoBrowse,setPage,findNew,refreshing,setShowAdd,bo
     <section className="mb-8"><h2 className="text-xl font-semibold text-stone-900 mb-3" style={{fontFamily:"Georgia, serif"}}>Browse by topic</h2><div className="flex flex-wrap gap-2">{CATEGORIES.map(c=>(<button key={c} onClick={()=>gotoBrowse({category:c})} className={`px-3 py-1.5 rounded-full text-sm border transition hover:scale-105 ${CAT_STYLE[c]}`}>{c} <span className="opacity-60">({catCount(c)})</span></button>))}</div></section>
     <section className="grid sm:grid-cols-2 gap-4">
       <div className="bg-white border border-stone-200 rounded-xl p-5"><GraduationCap className="w-6 h-6 text-stone-700 mb-2"/><h3 className="font-semibold text-stone-900 mb-1">Know an event we're missing?</h3><p className="text-sm text-stone-500 mb-3">Submit a conference or school in a few seconds.</p><button onClick={()=>setShowAdd(true)} className="text-sm px-3 py-1.5 rounded-lg bg-stone-900 text-white hover:bg-stone-700">Submit an event</button></div>
-      <div className="bg-white border border-stone-200 rounded-xl p-5"><RefreshCw className="w-6 h-6 text-stone-700 mb-2"/><h3 className="font-semibold text-stone-900 mb-1">Pull in fresh events</h3><p className="text-sm text-stone-500 mb-3">Search the web for newly announced events (requires backend).</p><button onClick={findNew} disabled={refreshing} className="text-sm px-3 py-1.5 rounded-lg border border-stone-300 hover:bg-stone-100 disabled:opacity-50 flex items-center gap-1.5"><RefreshCw className={`w-4 h-4 ${refreshing?"animate-spin":""}`}/> Find new events</button></div>
     </section>
   </div>);
 }
@@ -187,7 +186,6 @@ function BrowsePage({allEvents,search,setSearch,selCats,setSelCats,selType,setSe
     <div className="flex flex-wrap items-center gap-2 mb-4">
       <div className="relative flex-1 min-w-[200px]"><Search className="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-stone-400"/><input value={search} onChange={e=>setSearch(e.target.value)} placeholder="Search events, topics, places…" className="w-full pl-9 pr-3 py-2 rounded-lg border border-stone-300 bg-white text-sm focus:outline-none focus:ring-2 focus:ring-stone-400"/></div>
       <button onClick={()=>setShowFilters(s=>!s)} className={`flex items-center gap-1.5 px-3 py-2 rounded-lg border text-sm transition ${selCats.size||selType!=="All"?"border-stone-800 bg-stone-800 text-white":"border-stone-300 bg-white hover:bg-stone-100"}`}><Filter className="w-4 h-4"/> Filters {(selCats.size||selType!=="All")&&<span>({selCats.size+(selType!=="All"?1:0)})</span>}</button>
-      <button onClick={findNew} disabled={refreshing} className="flex items-center gap-1.5 px-3 py-2 rounded-lg border border-stone-300 bg-white text-sm hover:bg-stone-100 disabled:opacity-50"><RefreshCw className={`w-4 h-4 ${refreshing?"animate-spin":""}`}/> Find new</button>
     </div>
     {showFilters&&(<div className="mb-5 p-4 rounded-xl border border-stone-200 bg-white">
       <div className="text-xs font-semibold uppercase tracking-wide text-stone-500 mb-2">Type</div>
