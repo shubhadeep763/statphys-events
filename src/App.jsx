@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from "react";
 import {
   Search, Plus, RefreshCw, ExternalLink, MapPin, Calendar, X, Filter,
-  Home, Library, BookOpen, Info, ArrowRight, Sparkles, GraduationCap, Clock, Bookmark,
+  Home, Library, BookOpen, Info, ArrowRight, GraduationCap, Clock, Bookmark,
 } from "lucide-react";
 import SEED from "./events.json";
 
@@ -116,7 +116,7 @@ export default function App() {
       <nav className="sticky top-0 z-40 bg-white/90 backdrop-blur border-b border-stone-200">
         <div className="max-w-6xl mx-auto px-4 flex items-center gap-1 h-14">
           <button onClick={()=>setPage("home")} className="flex items-center gap-2 mr-2 font-semibold text-stone-900 shrink-0" style={{fontFamily:"Georgia, serif"}}>
-            <Sparkles className="w-5 h-5 text-amber-500"/><span className="hidden lg:inline">StatPhys Events</span>
+            <span className="hidden lg:inline">StatPhys Events</span>
           </button>
           <div className="flex items-center gap-0.5 flex-1 overflow-x-auto">
             {nav.map(([id,label,Icon])=>(
