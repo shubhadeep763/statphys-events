@@ -1,68 +1,1000 @@
 [
-  { "name": "Les Houches School: Nonequilibrium Physics in Nanoconfinement", "url": "https://www.fluxionic.org/events/les-houches-2026", "dateDisplay": "Jun 14–16, 2026", "start": "2026-06-14", "end": "2026-06-16", "location": "Les Houches, France", "type": "School", "categories": ["non-equilibrium", "soft matter"], "blurb": "School on non-equilibrium transport and fluctuations in strongly confined nanoscale systems." },
-  { "name": "Lake Como School: Statistical Physics of Deep Learning III", "url": "https://spdl3.lakecomoschool.org/", "dateDisplay": "Jun 15–19, 2026", "start": "2026-06-15", "end": "2026-06-19", "location": "Lake Como, Italy", "type": "School", "categories": ["machine learning", "stochastic"], "blurb": "Third edition applying statistical-physics methods to the theory of deep learning." },
-  { "name": "Workshop on Active Quantum Matter", "url": "https://indico.ictp.it/event/11321", "dateDisplay": "Jun 22–23, 2026", "start": "2026-06-22", "end": "2026-06-23", "location": "ICTP, Trieste, Italy", "type": "Workshop", "categories": ["active matter", "quantum non-equilibrium"], "blurb": "Asks whether active motion can emerge in the quantum regime." },
-  { "name": "Boulder School 2026: Geometry and Topology in Soft Matter Physics", "url": "https://www.colorado.edu/conference/bss/2026/boulder-school-2026", "dateDisplay": "Jul 6–31, 2026", "start": "2026-07-06", "end": "2026-07-31", "location": "Boulder, Colorado, USA", "type": "School", "categories": ["soft matter", "biophysics"], "blurb": "Four-week NSF school on geometry, topology and networks in soft matter." },
-  { "name": "SigmaPhi 2026 — International Conference on Statistical Physics", "url": "https://eps.org/event/sigmaphi-international-conference-on-statistical-physics/", "dateDisplay": "Jul 6–10, 2026", "start": "2026-07-06", "end": "2026-07-10", "location": "Kolymbari, Crete, Greece", "type": "Conference", "categories": ["classical statmech", "non-equilibrium", "active matter"], "blurb": "Long-running EPS conference covering all fields of statistical physics." },
-  { "name": "Les Houches Summer School on Statistical Physics & Machine Learning", "url": "https://aissai.cnrs.fr/en/evenement/summer-school-on-statistical-physics-machine-learning/", "dateDisplay": "Summer 2026 (see site)", "start": "2026-07-01", "end": "2026-07-26", "location": "Les Houches, France", "type": "School", "categories": ["machine learning", "classical statmech"], "blurb": "School at the interface of statistical physics and machine-learning theory." },
-  { "name": "Summer School on Living Active Matter 2026", "url": "https://sites.google.com/view/livingactivematter2026/registration", "dateDisplay": "Jul 13–31, 2026", "start": "2026-07-13", "end": "2026-07-31", "location": "CY Cergy Paris University, France", "type": "School", "categories": ["active matter", "biophysics"], "blurb": "Interdisciplinary school on collective behavior in active matter far from equilibrium." },
-  { "name": "Bangalore School on Statistical Physics XVII", "url": "https://www.icts.res.in/program/bssp2026", "dateDisplay": "Aug 13–28, 2026", "start": "2026-08-13", "end": "2026-08-28", "location": "RRI / ICTS, Bengaluru, India", "type": "School", "categories": ["classical statmech", "non-equilibrium", "stochastic"], "deadline": "2026-05-27", "blurb": "Advanced pedagogical school (17th edition) bridging masters courses and research." },
-  { "name": "A School on Gradient Flows", "url": "https://www.icts.res.in/programs/upcoming", "dateDisplay": "Aug 31 – Sep 11, 2026", "start": "2026-08-31", "end": "2026-09-11", "location": "ICTS, Bengaluru, India", "type": "School", "categories": ["machine learning", "non-equilibrium"], "deadline": "2026-05-31", "blurb": "Gradient-flow structures linking optimal transport, PDEs and dynamics far from equilibrium." },
-  { "name": "WNESP 2026 — Workshop on Non-equilibrium Statistical Physics", "url": "https://www.ictp-saifr.org/wnesp2026/", "dateDisplay": "2026 (see site)", "start": "2026-09-15", "end": "2026-09-19", "location": "ICTP-SAIFR, São Paulo, Brazil", "type": "Workshop", "categories": ["non-equilibrium", "active matter", "stochastic"], "blurb": "From glasses and active matter to stochastic thermodynamics and complex networks." },
-  { "name": "SMBT 2026: Soft Matter & Biophysics Theories — Active Matter Theories", "url": "https://indico.itp.ac.cn/event/413/", "dateDisplay": "Sep 21–25, 2026", "start": "2026-09-21", "end": "2026-09-25", "location": "ITP-CAS, Beijing, China", "type": "Workshop", "categories": ["active matter", "soft matter", "biophysics"], "deadline": "2026-07-31", "blurb": "Annual ITP-CAS workshop; 2026 theme is active matter theories. No registration fee." },
-  { "name": "Two and a Half Decades of the Macroscopic Fluctuation Theory", "url": "https://www.icts.res.in/programs/upcoming", "dateDisplay": "Sep 28 – Oct 9, 2026", "start": "2026-09-28", "end": "2026-10-09", "location": "ICTS, Bengaluru, India", "type": "Program", "categories": ["non-equilibrium", "hydrodynamics", "stochastic"], "blurb": "Marking 25+ years of MFT — large deviations and hydrodynamics of driven diffusive systems." },
-  { "name": "Phases, Caustics and Chaos: Classical and Quantum Aspects", "url": "https://www.icts.res.in/programs/upcoming", "dateDisplay": "Oct 12–16, 2026", "start": "2026-10-12", "end": "2026-10-16", "location": "ICTS, Bengaluru, India", "type": "Program", "categories": ["quantum non-equilibrium", "classical statmech"], "blurb": "Caustics, chaos and phase-space structure across classical and quantum dynamics." },
-  { "name": "Hydrodynamics of Active Matter", "url": "https://www.pks.mpg.de/haam26", "dateDisplay": "Nov 9–13, 2026", "start": "2026-11-09", "end": "2026-11-13", "location": "MPI-PKS, Dresden, Germany", "type": "Workshop", "categories": ["hydrodynamics", "active matter"], "blurb": "Max Planck workshop on hydrodynamic approaches to active matter." },
-  { "name": "New Frontiers in Nonequilibrium Statistical Physics of Glasses", "url": "https://www.cecam.org/workshop-details/1497", "dateDisplay": "Nov 30 – Dec 4, 2026", "start": "2026-11-30", "end": "2026-12-04", "location": "Vienna, Austria", "type": "Workshop", "categories": ["non-equilibrium", "soft matter", "stochastic"], "blurb": "CECAM workshop on the non-equilibrium statistical physics of glassy systems." },
-  { "name": "Theory & Simulation of Biomolecular Phase Separation and Aggregation", "url": "https://www.cecam.org/workshop-details/1272", "dateDisplay": "Jan 11–14, 2027", "start": "2027-01-11", "end": "2027-01-14", "location": "Zürich, Switzerland", "type": "Workshop", "categories": ["biophysics", "soft matter"], "blurb": "CECAM workshop on biomolecular condensates, phase separation and aggregation." },
-  { "name": "Les Houches School: Mathematical Statistical Physics", "url": "https://www.houches-school-physics.com/program/program-2027/doctoral-training-mathematical-statistical-physics-school-1739063.kjsp", "dateDisplay": "May 10–21, 2027", "start": "2027-05-10", "end": "2027-05-21", "location": "Les Houches, France", "type": "School", "categories": ["classical statmech", "stochastic"], "blurb": "New edition (after 1984 & 2005) on random geometry, disordered systems and graph theory." },
-  { "name": "Non-equilibrium Dynamics: from Active Matter to Evolutionary Dynamics (KITP)", "url": "https://www.kitp.ucsb.edu/activities/complexsys26", "dateDisplay": "Jun 1–5, 2026", "start": "2026-06-01", "end": "2026-06-05", "location": "KITP, Santa Barbara, USA", "type": "Program", "categories": ["active matter", "non-equilibrium", "biophysics"], "blurb": "KITP program across active matter, population and evolutionary dynamics." },
-  { "name": "StatPhys29 — 29th IUPAP Conference on Statistical Physics", "url": "https://statphys29.org/", "dateDisplay": "Jul 13–18, 2025", "start": "2025-07-13", "end": "2025-07-18", "location": "Florence, Italy", "type": "Conference", "categories": ["classical statmech", "non-equilibrium", "machine learning"], "blurb": "Flagship triennial world conference — Boltzmann Medal, first statphys-of-ML sessions." },
-  { "name": "Les Houches: Out of Equilibrium Physics in Low Dimensional Quantum Fluids", "url": "https://www.houches-school-physics.com/program/program-2027/out-of-equilibrium-physics-in-low-dimensional-quantum-fluids-1733582.kjsp", "dateDisplay": "Mar 14–19, 2027", "start": "2027-03-14", "end": "2027-03-19", "location": "Les Houches, France", "type": "Workshop", "categories": ["quantum non-equilibrium", "hydrodynamics"], "blurb": "Out-of-equilibrium dynamics of 1D and 2D quantum fluids — non-linear hydrodynamics, thermalisation and driven dynamics on atomic and photonic platforms." },
-  { "name": "Les Houches: Frontiers of Search in Heterogeneous Environments", "url": "https://www.houches-school-physics.com/program/program-2027/frontiers-of-search-in-heterogeneous-environments-from-markovian-to-non-markovian-dynamics-1735144.kjsp", "dateDisplay": "Aug 29 – Sep 3, 2027", "start": "2027-08-29", "end": "2027-09-03", "location": "Les Houches, France", "type": "Workshop", "categories": ["stochastic", "non-equilibrium", "biophysics"], "blurb": "Search processes and first-passage statistics in heterogeneous environments, from Markovian to non-Markovian dynamics with memory effects." },
-  { "name": "FQMT'26 — Frontiers of Quantum and Mesoscopic Thermodynamics", "url": "https://fqmt.fzu.cz/26/", "dateDisplay": "Jul 26 – Aug 1, 2026", "start": "2026-07-26", "end": "2026-08-01", "location": "Prague, Czech Republic", "type": "Conference", "categories": ["quantum non-equilibrium", "non-equilibrium", "quantum information"], "blurb": "Eleventh Prague FQMT meeting on non-equilibrium statistical physics, quantum many-body physics, foundations of quantum physics and quantum thermodynamics." },
-  { "name": "Quantum Thermodynamics Conference 2026 (QTD 2026)", "url": "https://iip.ufrn.br/en/events/quantum-thermodynamics-conference", "dateDisplay": "Aug 10–14, 2026", "start": "2026-08-10", "end": "2026-08-14", "location": "Natal, Brazil", "type": "Conference", "categories": ["quantum non-equilibrium", "quantum information"], "blurb": "The flagship annual quantum-thermodynamics meeting — fluctuation theorems, quantum heat engines, and work/heat/entropy at the quantum scale." },
-  { "name": "Thermodynamics for Quantum Devices: Theory & Numerical Methods (TQD 2026)", "url": "https://tqd2026.lakecomoschool.org/", "dateDisplay": "Jun 22–26, 2026", "start": "2026-06-22", "end": "2026-06-26", "location": "Lake Como, Italy", "type": "School", "categories": ["quantum non-equilibrium", "machine learning", "quantum information"], "blurb": "Summer school uniting quantum-thermodynamics theory with hands-on tensor-network and machine-learning numerical training." },
-  { "name": "AI for Quantum Matter (KITP Program)", "url": "https://www.kitp.ucsb.edu/programs", "dateDisplay": "Jul 27 – Oct 8, 2026", "start": "2026-07-27", "end": "2026-10-08", "location": "KITP, Santa Barbara, USA", "type": "Program", "categories": ["machine learning", "quantum information", "quantum non-equilibrium"], "blurb": "Extended KITP program on applying AI and machine learning to quantum many-body matter." },
-  { "name": "Artificial Intelligence at the Quantum Frontier (KITP Conference)", "url": "https://www.kitp.ucsb.edu/activities/aiqmatter_c26", "dateDisplay": "Sep 28 – Oct 1, 2026", "start": "2026-09-28", "end": "2026-10-01", "location": "KITP, Santa Barbara, USA", "type": "Conference", "categories": ["machine learning", "quantum information"], "deadline": "2026-08-28", "blurb": "Conference on the frontier where machine learning meets quantum physics — neural quantum states, ML for quantum control, and quantum learning theory." },
-  { "name": "Quantum Many-body Systems out of Equilibrium: Relaxation, Thermalization, Ergodicity Breaking", "url": "https://www.pks.mpg.de/qmbsoe26", "dateDisplay": "Aug 31 – Sep 4, 2026", "start": "2026-08-31", "end": "2026-09-04", "location": "MPI-PKS, Dresden, Germany", "type": "Workshop", "categories": ["quantum non-equilibrium", "non-equilibrium"], "blurb": "MPI-PKS workshop on relaxation, thermalization (ETH) and ergodicity breaking in isolated quantum many-body systems." },
-  { "name": "School on Open Quantum Systems: Theory and Experiment", "url": "https://www.ictp-saifr.org/ssdoqste2026/", "dateDisplay": "Jul 27 – Aug 7, 2026", "start": "2026-07-27", "end": "2026-08-07", "location": "ICTP-SAIFR, São Paulo, Brazil", "type": "School", "categories": ["quantum non-equilibrium", "quantum information"], "deadline": "2026-05-15", "blurb": "School on driven-dissipative quantum systems — Lindblad dynamics, superradiance, non-Markovian dissipation and quantum error correction." },
-  { "name": "School on Analytical and Numerical Methods for Disordered Quantum Systems", "url": "https://www.ictp-saifr.org/2026-activities/", "dateDisplay": "Sep 14–25, 2026", "start": "2026-09-14", "end": "2026-09-25", "location": "ICTP-SAIFR, São Paulo, Brazil", "type": "School", "categories": ["quantum non-equilibrium", "classical statmech"], "blurb": "School on analytical and numerical methods for disordered quantum systems." },
-  { "name": "School & Workshop on Ultrafast Electronics Meets Quantum Thermodynamics", "url": "https://indico.ictp.it/event/11164", "dateDisplay": "Sep 21 – Oct 9, 2026", "start": "2026-09-21", "end": "2026-10-09", "location": "ICTP, Trieste, Italy", "type": "Workshop", "categories": ["quantum non-equilibrium", "quantum information"], "deadline": "2026-06-15", "blurb": "School and workshop at the intersection of ultrafast coherent electronics and quantum thermodynamics." },
-  { "name": "Open Quantum Systems — from Quantum Information to Condensed Matter", "url": "https://www.ictp.it/cmsp", "dateDisplay": "Dec 7–18, 2026", "start": "2026-12-07", "end": "2026-12-18", "location": "ICTP, Trieste, Italy", "type": "Workshop", "categories": ["quantum non-equilibrium", "quantum information"], "deadline": "2026-08-31", "blurb": "School and workshop bridging quantum-information and condensed-matter perspectives on open quantum systems." },
-  { "name": "Engineered Strongly-Interacting Lattice Models with Atomic Quantum Simulators", "url": "https://www.pks.mpg.de/enlaqs26", "dateDisplay": "Jun 29 – Jul 3, 2026", "start": "2026-06-29", "end": "2026-07-03", "location": "MPI-PKS, Dresden, Germany", "type": "Workshop", "categories": ["quantum non-equilibrium", "quantum information"], "blurb": "MPI-PKS workshop on quantum simulation of strongly interacting lattice models with cold atoms." },
-  { "name": "From Quantum Matter to Quantum Computers (MPI-PKS School)", "url": "https://www.pks.mpg.de/events/workshops-seminars", "dateDisplay": "Sep 7–11, 2026", "start": "2026-09-07", "end": "2026-09-11", "location": "MPI-PKS, Dresden, Germany", "type": "School", "categories": ["quantum non-equilibrium", "quantum information"], "blurb": "Master's-level school bridging quantum many-body matter and quantum computing." },
-  { "name": "La Ricotta Summer School: The Quantum in the Haystack", "url": "https://indico.global/event/16456/", "dateDisplay": "Jun 29 – Jul 10, 2026", "start": "2026-06-29", "end": "2026-07-10", "location": "Castro Caldelas, Spain", "type": "School", "categories": ["quantum information", "quantum non-equilibrium"], "blurb": "Informal graduate school on quantum-information theory, many-body quantum chaos, non-equilibrium quantum systems and tensor networks." },
-  { "name": "Youth in High-Dimensions: ML, High-Dimensional Statistics and Inference", "url": "https://indico.ictp.it/event/11153/", "dateDisplay": "Jul 20–23, 2026", "start": "2026-07-20", "end": "2026-07-23", "location": "ICTP, Trieste, Italy", "type": "Conference", "categories": ["machine learning", "stochastic"], "deadline": "2026-05-09", "blurb": "Seventh edition giving young researchers a platform for results spanning machine learning, inference, high-dimensional statistics, neuroscience and statistical physics." },
-  { "name": "Advanced School in Applied Machine Learning: Uncertainty & Robustness for Science", "url": "https://www.ictp.it/cmsp", "dateDisplay": "Jul 23–31, 2026", "start": "2026-07-23", "end": "2026-07-31", "location": "ICTP, Trieste, Italy", "type": "School", "categories": ["machine learning"], "blurb": "Advanced school on uncertainty quantification and robustness of deep-learning models for scientific applications." },
-  { "name": "Statistical Physics & Neurobiology of Learning in High-Level Cognition (KITP)", "url": "https://www.kitp.ucsb.edu/activities/cognition27", "dateDisplay": "Jun 21 – Jul 29, 2027", "start": "2027-06-21", "end": "2027-07-29", "location": "KITP, Santa Barbara, USA", "type": "Program", "categories": ["machine learning", "biophysics"], "blurb": "Six-week KITP program linking statistical physics, machine learning, neurobiology and cognitive science to study learning and emergent cognition." },
-  { "name": "Machine Learning Photonics (Lake Como School)", "url": "https://lakecomoschool.org/schools/", "dateDisplay": "Aug 24–28, 2026", "start": "2026-08-24", "end": "2026-08-28", "location": "Lake Como, Italy", "type": "School", "categories": ["machine learning"], "blurb": "Lake Como summer school on machine-learning methods applied to photonics." },
-  { "name": "Fluctuations, Quenched Disorder, and Strong Correlations (MPI-PKS)", "url": "https://www.pks.mpg.de/fqdsc26", "dateDisplay": "Jun 22–24, 2026", "start": "2026-06-22", "end": "2026-06-24", "location": "MPI-PKS, Dresden, Germany", "type": "Workshop", "categories": ["classical statmech", "non-equilibrium"], "blurb": "Focus workshop on the interplay of fluctuations, quenched disorder and strong correlations." },
-  { "name": "High-Dimensional Computation in Soft Matter (MPI-PKS)", "url": "https://www.pks.mpg.de/hdcsm26", "dateDisplay": "Jul 13–17, 2026", "start": "2026-07-13", "end": "2026-07-17", "location": "MPI-PKS, Dresden, Germany", "type": "Workshop", "categories": ["soft matter", "machine learning"], "blurb": "MPI-PKS workshop on high-dimensional computational approaches in soft matter." },
-  { "name": "Phases of Collective Cellular Behavior: Rheology, Order & Feedback (MPI-PKS)", "url": "https://www.pks.mpg.de/colcel26", "dateDisplay": "Oct 5–9, 2026", "start": "2026-10-05", "end": "2026-10-09", "location": "MPI-PKS, Dresden, Germany", "type": "Workshop", "categories": ["active matter", "biophysics"], "blurb": "MPI-PKS workshop on rheology, ordering and feedback in collective cellular behavior." },
-  { "name": "Active, Adaptive and Autonomous Matter (WE-Heraeus Summer School)", "url": "https://www.theorie.physik.uni-muenchen.de/lsfrey/conferences/index.html", "dateDisplay": "Jul 6–18, 2026", "start": "2026-07-06", "end": "2026-07-18", "location": "Cargèse, Corsica, France", "type": "School", "categories": ["active matter", "biophysics"], "blurb": "WE-Heraeus summer school on active, adaptive and autonomous matter." },
-  { "name": "Geometry and Intercellular Interactions in Morphogenesis (KITP Program)", "url": "https://www.kitp.ucsb.edu/programs", "dateDisplay": "Jul 20 – Aug 20, 2026", "start": "2026-07-20", "end": "2026-08-20", "location": "KITP, Santa Barbara, USA", "type": "Program", "categories": ["biophysics", "active matter"], "blurb": "KITP program on geometry and intercellular interactions underlying morphogenesis in animals and plants." },
-  { "name": "Winter School on Biological Physics (ICTS)", "url": "https://www.icts.res.in/program/wsbp", "dateDisplay": "Dec 21, 2026 – Jan 1, 2027", "start": "2026-12-21", "end": "2027-01-01", "location": "ICTS, Bengaluru, India", "type": "School", "categories": ["biophysics"], "blurb": "ICTS winter school on biological physics." },
-  { "name": "From Defects to Effects in Soft Matter — SFB 1552 Symposium", "url": "https://converia.uni-mainz.de/frontend/index.php?folder_id=1165", "dateDisplay": "Jun 17–19, 2026", "start": "2026-06-17", "end": "2026-06-19", "location": "Mainz, Germany", "type": "Conference", "categories": ["soft matter"], "blurb": "International symposium of the SFB 1552 research center on defects and their effects in soft matter." },
-  { "name": "Complex Fluids at Interfaces: Structure, Stability, and Molecular Effects", "url": "https://www.cecam.org/workshop-details/1492", "dateDisplay": "Jun 17–19, 2026", "start": "2026-06-17", "end": "2026-06-19", "location": "Lausanne, Switzerland", "type": "Workshop", "categories": ["soft matter"], "blurb": "CECAM workshop on the structure, stability and molecular-scale effects of complex fluids at interfaces." },
-  { "name": "Italian Soft Days (ISoDays 2026)", "url": "https://sites.google.com/site/italiansoftdays/isodays-2026-naples", "dateDisplay": "Jun 22–23, 2026", "start": "2026-06-22", "end": "2026-06-23", "location": "Naples, Italy", "type": "Conference", "categories": ["soft matter"], "blurb": "National meeting bringing together the Italian soft-matter community." },
-  { "name": "Molecular Simulations Meet Data for Polymer Science", "url": "https://www.cecam.org/workshop-details/1547", "dateDisplay": "Jun 22–24, 2026", "start": "2026-06-22", "end": "2026-06-24", "location": "Manchester, UK", "type": "Workshop", "categories": ["soft matter", "machine learning"], "blurb": "CECAM workshop coupling molecular simulation and data-driven methods for polymer science." },
-  { "name": "High-Throughput Simulations: Polymer Science Meets Biophysics", "url": "https://www.cecam.org/workshop-details/1478", "dateDisplay": "Jun 29 – Jul 2, 2026", "start": "2026-06-29", "end": "2026-07-02", "location": "Mainz, Germany", "type": "Workshop", "categories": ["soft matter", "biophysics"], "blurb": "High-throughput simulation methods bridging polymer science and biophysics." },
-  { "name": "Stochastic Dynamics: Foundations and Applications (Lake Como School)", "url": "https://lakecomoschool.org/schools/", "dateDisplay": "Jun 29 – Jul 3, 2026", "start": "2026-06-29", "end": "2026-07-03", "location": "Lake Como, Italy", "type": "School", "categories": ["stochastic"], "blurb": "Lake Como graduate school on the foundations and applications of stochastic dynamics." },
-  { "name": "Using Theory to Address New Frontiers in Block Copolymer Materials", "url": "https://www.cecam.org/workshop-details/1546", "dateDisplay": "Jul 1–3, 2026", "start": "2026-07-01", "end": "2026-07-03", "location": "Lincoln, UK", "type": "Workshop", "categories": ["soft matter"], "blurb": "Theory-focused CECAM workshop on block copolymer materials." },
-  { "name": "Toward Intelligent Behavior in Macroscopic Active Matter", "url": "https://www.cecam.org/workshop-details/1481", "dateDisplay": "Jul 6–8, 2026", "start": "2026-07-06", "end": "2026-07-08", "location": "Lausanne, Switzerland", "type": "Workshop", "categories": ["active matter"], "blurb": "CECAM workshop on emergent intelligent behavior in macroscopic active-matter systems." },
-  { "name": "Regularity, Blow-up, and Mixing of Fluid Flow (ICTS)", "url": "https://www.icts.res.in/discussion-meeting/RBFW2026", "dateDisplay": "Jul 20–24, 2026", "start": "2026-07-20", "end": "2026-07-24", "location": "ICTS, Bengaluru, India", "type": "Workshop", "categories": ["hydrodynamics"], "deadline": "2026-05-20", "blurb": "ICTS discussion meeting on the mathematics of fluid flow — regularity, blow-up and mixing." },
-  { "name": "Biological Learning without a Brain (KITP)", "url": "https://www.kitp.ucsb.edu/activities/brainless26", "dateDisplay": "Jun 22 – Jul 16, 2026", "start": "2026-06-22", "end": "2026-07-16", "location": "KITP, Santa Barbara, USA", "type": "Program", "categories": ["biophysics", "machine learning"], "blurb": "KITP program on learning and adaptive behavior in non-neural living systems." },
-  { "name": "12th International Conference on Biological Physics (ICBP 2026)", "url": "https://www.icbp2026.org", "dateDisplay": "Jun 28 – Jul 3, 2026", "start": "2026-06-28", "end": "2026-07-03", "location": "Genova, Italy", "type": "Conference", "categories": ["biophysics"], "blurb": "IUPAP-sponsored multidisciplinary biological-physics conference; the 2026 Physics of Life Medal is awarded here." },
-  { "name": "Gordon Research Conference: Polymer Physics", "url": "https://grc.org/polymer-physics-conference/2026", "dateDisplay": "Jul 26–31, 2026", "start": "2026-07-26", "end": "2026-07-31", "location": "South Hadley, Massachusetts, USA", "type": "Conference", "categories": ["soft matter"], "deadline": "2026-06-28", "blurb": "Gordon Research Conference linking polymer molecular design to structure and properties." },
-  { "name": "Physics of Collective Function in Active Living Matter (Aspen)", "url": "https://aspenphys.org/summer-workshops/", "dateDisplay": "Aug 9 – Sep 6, 2026", "start": "2026-08-09", "end": "2026-09-06", "location": "Aspen, Colorado, USA", "type": "Workshop", "categories": ["active matter", "biophysics", "non-equilibrium"], "blurb": "Aspen summer workshop on how feedback, control and non-equilibrium physics generate function in living matter." },
-  { "name": "Phase Separation, Condensation, and Self-Association in 2D and 3D", "url": "https://www.linxs.se/events/2026/08/26-28", "dateDisplay": "Aug 26–28, 2026", "start": "2026-08-26", "end": "2026-08-28", "location": "Lund, Sweden", "type": "Workshop", "categories": ["soft matter", "biophysics"], "blurb": "Workshop on phase separation, condensation and self-association from basic principles to life-science applications." },
-  { "name": "SIFS2026 — 4th School of the Italian Society of Statistical Physics", "url": "https://www.fisicastatistica.org/school-sifs", "dateDisplay": "Sep 6–19, 2026", "start": "2026-09-06", "end": "2026-09-19", "location": "Lecce, Italy", "type": "School", "categories": ["non-equilibrium", "biophysics", "active matter", "machine learning", "quantum non-equilibrium"], "blurb": "Two-week PhD school with sections in biophysics & active matter, disordered systems, machine learning & AI, and quantum physics." },
-  { "name": "Bridging Biomolecular Simulations and Experiments across Time and Length Scales", "url": "https://www.cecam.org/workshop-details/1493", "dateDisplay": "Sep 14–17, 2026", "start": "2026-09-14", "end": "2026-09-17", "location": "Lausanne, Switzerland", "type": "Workshop", "categories": ["biophysics"], "blurb": "CECAM workshop linking biomolecular simulation and experiment from single molecules to organelles." },
-  { "name": "Fluctuations in Charged and Soft Matter", "url": "https://www.cecam.org/workshop-details/1526", "dateDisplay": "Oct 5–8, 2026", "start": "2026-10-05", "end": "2026-10-08", "location": "Paris, France", "type": "Workshop", "categories": ["soft matter"], "blurb": "CECAM workshop on fluctuation phenomena in charged and soft-matter systems." },
-  { "name": "Quantum Thermalization Breakdown: Localization and Multifractality (Nordita)", "url": "https://indico.fysik.su.se/event/9690/", "dateDisplay": "Oct 12–16, 2026", "start": "2026-10-12", "end": "2026-10-16", "location": "Nordita, Stockholm, Sweden", "type": "Workshop", "categories": ["quantum non-equilibrium"], "blurb": "Nordita workshop on many-body localization, multifractality and the breakdown of thermalization." },
-  { "name": "Water Anomalies — Origin and Implications (Nordita)", "url": "https://indico.fysik.su.se/event/9220/", "dateDisplay": "Jun 10–12, 2026", "start": "2026-06-10", "end": "2026-06-12", "location": "Nordita, Stockholm, Sweden", "type": "Workshop", "categories": ["soft matter", "classical statmech"], "blurb": "Nordita workshop on the anomalous thermodynamic and structural properties of water." },
-  { "name": "From Richardson's Diffusion to Spontaneous Stochasticity (ICTS)", "url": "https://www.icts.res.in/program/FRDSS", "dateDisplay": "Feb 15–26, 2027", "start": "2027-02-15", "end": "2027-02-26", "location": "ICTS, Bengaluru, India", "type": "Program", "categories": ["hydrodynamics", "stochastic"], "blurb": "ICTS program tracing a century of turbulent dispersion, from Richardson diffusion to spontaneous stochasticity." },
-  { "name": "Les Houches: New Challenges in Turbulence Research VIII", "url": "https://www.houches-school-physics.com/program/program-2027/new-challenges-in-turbulence-research-viii-nctr-viii--1733311.kjsp", "dateDisplay": "Feb 21–26, 2027", "start": "2027-02-21", "end": "2027-02-26", "location": "Les Houches, France", "type": "School", "categories": ["hydrodynamics"], "blurb": "Thematic school on the interaction between turbulent flows and objects — particles, interfaces, flexible structures and living organisms." },
-  { "name": "Les Houches: Adaptive Measurements and Dissipation Engineering in Quantum Systems", "url": "https://www.houches-school-physics.com/program/program-2027/summer-school-adaptive-measurements-and-dissipation-engineering-in-quantum-systems-1736630.kjsp", "dateDisplay": "Aug 2–27, 2027", "start": "2027-08-02", "end": "2027-08-27", "location": "Les Houches, France", "type": "School", "categories": ["quantum non-equilibrium"], "blurb": "Summer school on protecting quantum systems from decoherence via measurement-based and autonomous feedback." }
+  {
+    "name": "Non-equilibrium Dynamics: from Active Matter to Evolutionary Dynamics (KITP)",
+    "url": "https://www.kitp.ucsb.edu/activities/complexsys26",
+    "dateDisplay": "Jun 1–5, 2026",
+    "start": "2026-06-01",
+    "end": "2026-06-05",
+    "location": "KITP, Santa Barbara, USA",
+    "type": "Program",
+    "categories": [
+      "active matter",
+      "non-equilibrium",
+      "biophysics"
+    ],
+    "blurb": "KITP program across active matter, population and evolutionary dynamics."
+  },
+  {
+    "name": "Water Anomalies — Origin and Implications (Nordita)",
+    "url": "https://indico.fysik.su.se/event/9220/",
+    "dateDisplay": "Jun 10–12, 2026",
+    "start": "2026-06-10",
+    "end": "2026-06-12",
+    "location": "Nordita, Stockholm, Sweden",
+    "type": "Workshop",
+    "categories": [
+      "soft matter",
+      "classical statmech"
+    ],
+    "blurb": "Nordita workshop on the anomalous thermodynamic and structural properties of water."
+  },
+  {
+    "name": "Les Houches School: Nonequilibrium Physics in Nanoconfinement",
+    "url": "https://www.fluxionic.org/events/les-houches-2026",
+    "dateDisplay": "Jun 14–16, 2026",
+    "start": "2026-06-14",
+    "end": "2026-06-16",
+    "location": "Les Houches, France",
+    "type": "School",
+    "categories": [
+      "non-equilibrium",
+      "soft matter"
+    ],
+    "blurb": "School on non-equilibrium transport and fluctuations in strongly confined nanoscale systems."
+  },
+  {
+    "name": "Lake Como School: Statistical Physics of Deep Learning III",
+    "url": "https://spdl3.lakecomoschool.org/",
+    "dateDisplay": "Jun 15–19, 2026",
+    "start": "2026-06-15",
+    "end": "2026-06-19",
+    "location": "Lake Como, Italy",
+    "type": "School",
+    "categories": [
+      "machine learning",
+      "stochastic"
+    ],
+    "blurb": "Third edition applying statistical-physics methods to the theory of deep learning."
+  },
+  {
+    "name": "From Defects to Effects in Soft Matter — SFB 1552 Symposium",
+    "url": "https://converia.uni-mainz.de/frontend/index.php?folder_id=1165",
+    "dateDisplay": "Jun 17–19, 2026",
+    "start": "2026-06-17",
+    "end": "2026-06-19",
+    "location": "Mainz, Germany",
+    "type": "Conference",
+    "categories": [
+      "soft matter"
+    ],
+    "blurb": "International symposium of the SFB 1552 research center on defects and their effects in soft matter."
+  },
+  {
+    "name": "Complex Fluids at Interfaces: Structure, Stability, and Molecular Effects",
+    "url": "https://www.cecam.org/workshop-details/1492",
+    "dateDisplay": "Jun 17–19, 2026",
+    "start": "2026-06-17",
+    "end": "2026-06-19",
+    "location": "Lausanne, Switzerland",
+    "type": "Workshop",
+    "categories": [
+      "soft matter"
+    ],
+    "blurb": "CECAM workshop on the structure, stability and molecular-scale effects of complex fluids at interfaces."
+  },
+  {
+    "name": "Workshop on Active Quantum Matter",
+    "url": "https://indico.ictp.it/event/11321",
+    "dateDisplay": "Jun 22–23, 2026",
+    "start": "2026-06-22",
+    "end": "2026-06-23",
+    "location": "ICTP, Trieste, Italy",
+    "type": "Workshop",
+    "categories": [
+      "active matter",
+      "quantum non-equilibrium"
+    ],
+    "blurb": "Asks whether active motion can emerge in the quantum regime."
+  },
+  {
+    "name": "Thermodynamics for Quantum Devices: Theory & Numerical Methods (TQD 2026)",
+    "url": "https://tqd2026.lakecomoschool.org/",
+    "dateDisplay": "Jun 22–26, 2026",
+    "start": "2026-06-22",
+    "end": "2026-06-26",
+    "location": "Lake Como, Italy",
+    "type": "School",
+    "categories": [
+      "quantum non-equilibrium",
+      "machine learning",
+      "quantum information"
+    ],
+    "blurb": "Summer school uniting quantum-thermodynamics theory with hands-on tensor-network and machine-learning numerical training."
+  },
+  {
+    "name": "Fluctuations, Quenched Disorder, and Strong Correlations (MPI-PKS)",
+    "url": "https://www.pks.mpg.de/fqdsc26",
+    "dateDisplay": "Jun 22–24, 2026",
+    "start": "2026-06-22",
+    "end": "2026-06-24",
+    "location": "MPI-PKS, Dresden, Germany",
+    "type": "Workshop",
+    "categories": [
+      "classical statmech",
+      "non-equilibrium"
+    ],
+    "blurb": "Focus workshop on the interplay of fluctuations, quenched disorder and strong correlations."
+  },
+  {
+    "name": "Italian Soft Days (ISoDays 2026)",
+    "url": "https://sites.google.com/site/italiansoftdays/isodays-2026-naples",
+    "dateDisplay": "Jun 22–23, 2026",
+    "start": "2026-06-22",
+    "end": "2026-06-23",
+    "location": "Naples, Italy",
+    "type": "Conference",
+    "categories": [
+      "soft matter"
+    ],
+    "blurb": "National meeting bringing together the Italian soft-matter community."
+  },
+  {
+    "name": "Molecular Simulations Meet Data for Polymer Science",
+    "url": "https://www.cecam.org/workshop-details/1547",
+    "dateDisplay": "Jun 22–24, 2026",
+    "start": "2026-06-22",
+    "end": "2026-06-24",
+    "location": "Manchester, UK",
+    "type": "Workshop",
+    "categories": [
+      "soft matter",
+      "machine learning"
+    ],
+    "blurb": "CECAM workshop coupling molecular simulation and data-driven methods for polymer science."
+  },
+  {
+    "name": "Biological Learning without a Brain (KITP)",
+    "url": "https://www.kitp.ucsb.edu/activities/brainless26",
+    "dateDisplay": "Jun 22 – Jul 16, 2026",
+    "start": "2026-06-22",
+    "end": "2026-07-16",
+    "location": "KITP, Santa Barbara, USA",
+    "type": "Program",
+    "categories": [
+      "biophysics",
+      "machine learning"
+    ],
+    "blurb": "KITP program on learning and adaptive behavior in non-neural living systems."
+  },
+  {
+    "name": "12th International Conference on Biological Physics (ICBP 2026)",
+    "url": "https://www.icbp2026.org",
+    "dateDisplay": "Jun 28 – Jul 3, 2026",
+    "start": "2026-06-28",
+    "end": "2026-07-03",
+    "location": "Genova, Italy",
+    "type": "Conference",
+    "categories": [
+      "biophysics"
+    ],
+    "blurb": "IUPAP-sponsored multidisciplinary biological-physics conference; the 2026 Physics of Life Medal is awarded here."
+  },
+  {
+    "name": "Engineered Strongly-Interacting Lattice Models with Atomic Quantum Simulators",
+    "url": "https://www.pks.mpg.de/enlaqs26",
+    "dateDisplay": "Jun 29 – Jul 3, 2026",
+    "start": "2026-06-29",
+    "end": "2026-07-03",
+    "location": "MPI-PKS, Dresden, Germany",
+    "type": "Workshop",
+    "categories": [
+      "quantum non-equilibrium",
+      "quantum information"
+    ],
+    "blurb": "MPI-PKS workshop on quantum simulation of strongly interacting lattice models with cold atoms."
+  },
+  {
+    "name": "La Ricotta Summer School: The Quantum in the Haystack",
+    "url": "https://indico.global/event/16456/",
+    "dateDisplay": "Jun 29 – Jul 10, 2026",
+    "start": "2026-06-29",
+    "end": "2026-07-10",
+    "location": "Castro Caldelas, Spain",
+    "type": "School",
+    "categories": [
+      "quantum information",
+      "quantum non-equilibrium"
+    ],
+    "blurb": "Informal graduate school on quantum-information theory, many-body quantum chaos, non-equilibrium quantum systems and tensor networks."
+  },
+  {
+    "name": "High-Throughput Simulations: Polymer Science Meets Biophysics",
+    "url": "https://www.cecam.org/workshop-details/1478",
+    "dateDisplay": "Jun 29 – Jul 2, 2026",
+    "start": "2026-06-29",
+    "end": "2026-07-02",
+    "location": "Mainz, Germany",
+    "type": "Workshop",
+    "categories": [
+      "soft matter",
+      "biophysics"
+    ],
+    "blurb": "High-throughput simulation methods bridging polymer science and biophysics."
+  },
+  {
+    "name": "Stochastic Dynamics: Foundations and Applications (Lake Como School)",
+    "url": "https://lakecomoschool.org/schools/",
+    "dateDisplay": "Jun 29 – Jul 3, 2026",
+    "start": "2026-06-29",
+    "end": "2026-07-03",
+    "location": "Lake Como, Italy",
+    "type": "School",
+    "categories": [
+      "stochastic"
+    ],
+    "blurb": "Lake Como graduate school on the foundations and applications of stochastic dynamics."
+  },
+  {
+    "name": "Les Houches Summer School on Statistical Physics & Machine Learning",
+    "url": "https://aissai.cnrs.fr/en/evenement/summer-school-on-statistical-physics-machine-learning/",
+    "dateDisplay": "Summer 2026 (see site)",
+    "start": "2026-07-01",
+    "end": "2026-07-26",
+    "location": "Les Houches, France",
+    "type": "School",
+    "categories": [
+      "machine learning",
+      "classical statmech"
+    ],
+    "blurb": "School at the interface of statistical physics and machine-learning theory."
+  },
+  {
+    "name": "Using Theory to Address New Frontiers in Block Copolymer Materials",
+    "url": "https://www.cecam.org/workshop-details/1546",
+    "dateDisplay": "Jul 1–3, 2026",
+    "start": "2026-07-01",
+    "end": "2026-07-03",
+    "location": "Lincoln, UK",
+    "type": "Workshop",
+    "categories": [
+      "soft matter"
+    ],
+    "blurb": "Theory-focused CECAM workshop on block copolymer materials."
+  },
+  {
+    "name": "Boulder School 2026: Geometry and Topology in Soft Matter Physics",
+    "url": "https://www.colorado.edu/conference/bss/2026/boulder-school-2026",
+    "dateDisplay": "Jul 6–31, 2026",
+    "start": "2026-07-06",
+    "end": "2026-07-31",
+    "location": "Boulder, Colorado, USA",
+    "type": "School",
+    "categories": [
+      "soft matter",
+      "biophysics"
+    ],
+    "blurb": "Four-week NSF school on geometry, topology and networks in soft matter."
+  },
+  {
+    "name": "SigmaPhi 2026 — International Conference on Statistical Physics",
+    "url": "https://eps.org/event/sigmaphi-international-conference-on-statistical-physics/",
+    "dateDisplay": "Jul 6–10, 2026",
+    "start": "2026-07-06",
+    "end": "2026-07-10",
+    "location": "Kolymbari, Crete, Greece",
+    "type": "Conference",
+    "categories": [
+      "classical statmech",
+      "non-equilibrium",
+      "active matter"
+    ],
+    "blurb": "Long-running EPS conference covering all fields of statistical physics."
+  },
+  {
+    "name": "Active, Adaptive and Autonomous Matter (WE-Heraeus Summer School)",
+    "url": "https://www.theorie.physik.uni-muenchen.de/lsfrey/conferences/index.html",
+    "dateDisplay": "Jul 6–18, 2026",
+    "start": "2026-07-06",
+    "end": "2026-07-18",
+    "location": "Cargèse, Corsica, France",
+    "type": "School",
+    "categories": [
+      "active matter",
+      "biophysics"
+    ],
+    "blurb": "WE-Heraeus summer school on active, adaptive and autonomous matter."
+  },
+  {
+    "name": "Toward Intelligent Behavior in Macroscopic Active Matter",
+    "url": "https://www.cecam.org/workshop-details/1481",
+    "dateDisplay": "Jul 6–8, 2026",
+    "start": "2026-07-06",
+    "end": "2026-07-08",
+    "location": "Lausanne, Switzerland",
+    "type": "Workshop",
+    "categories": [
+      "active matter"
+    ],
+    "blurb": "CECAM workshop on emergent intelligent behavior in macroscopic active-matter systems."
+  },
+  {
+    "name": "Summer School on Living Active Matter 2026",
+    "url": "https://sites.google.com/view/livingactivematter2026/registration",
+    "dateDisplay": "Jul 13–31, 2026",
+    "start": "2026-07-13",
+    "end": "2026-07-31",
+    "location": "CY Cergy Paris University, France",
+    "type": "School",
+    "categories": [
+      "active matter",
+      "biophysics"
+    ],
+    "blurb": "Interdisciplinary school on collective behavior in active matter far from equilibrium."
+  },
+  {
+    "name": "High-Dimensional Computation in Soft Matter (MPI-PKS)",
+    "url": "https://www.pks.mpg.de/hdcsm26",
+    "dateDisplay": "Jul 13–17, 2026",
+    "start": "2026-07-13",
+    "end": "2026-07-17",
+    "location": "MPI-PKS, Dresden, Germany",
+    "type": "Workshop",
+    "categories": [
+      "soft matter",
+      "machine learning"
+    ],
+    "blurb": "MPI-PKS workshop on high-dimensional computational approaches in soft matter."
+  },
+  {
+    "name": "Youth in High-Dimensions: ML, High-Dimensional Statistics and Inference",
+    "url": "https://indico.ictp.it/event/11153/",
+    "dateDisplay": "Jul 20–23, 2026",
+    "start": "2026-07-20",
+    "end": "2026-07-23",
+    "location": "ICTP, Trieste, Italy",
+    "type": "Conference",
+    "categories": [
+      "machine learning",
+      "stochastic"
+    ],
+    "deadline": "2026-05-09",
+    "blurb": "Seventh edition giving young researchers a platform for results spanning machine learning, inference, high-dimensional statistics, neuroscience and statistical physics."
+  },
+  {
+    "name": "Geometry and Intercellular Interactions in Morphogenesis (KITP Program)",
+    "url": "https://www.kitp.ucsb.edu/programs",
+    "dateDisplay": "Jul 20 – Aug 20, 2026",
+    "start": "2026-07-20",
+    "end": "2026-08-20",
+    "location": "KITP, Santa Barbara, USA",
+    "type": "Program",
+    "categories": [
+      "biophysics",
+      "active matter"
+    ],
+    "blurb": "KITP program on geometry and intercellular interactions underlying morphogenesis in animals and plants."
+  },
+  {
+    "name": "Regularity, Blow-up, and Mixing of Fluid Flow (ICTS)",
+    "url": "https://www.icts.res.in/discussion-meeting/RBFW2026",
+    "dateDisplay": "Jul 20–24, 2026",
+    "start": "2026-07-20",
+    "end": "2026-07-24",
+    "location": "ICTS, Bengaluru, India",
+    "type": "Workshop",
+    "categories": [
+      "hydrodynamics"
+    ],
+    "deadline": "2026-05-20",
+    "blurb": "ICTS discussion meeting on the mathematics of fluid flow — regularity, blow-up and mixing."
+  },
+  {
+    "name": "Advanced School in Applied Machine Learning: Uncertainty & Robustness for Science",
+    "url": "https://www.ictp.it/cmsp",
+    "dateDisplay": "Jul 23–31, 2026",
+    "start": "2026-07-23",
+    "end": "2026-07-31",
+    "location": "ICTP, Trieste, Italy",
+    "type": "School",
+    "categories": [
+      "machine learning"
+    ],
+    "blurb": "Advanced school on uncertainty quantification and robustness of deep-learning models for scientific applications."
+  },
+  {
+    "name": "FQMT'26 — Frontiers of Quantum and Mesoscopic Thermodynamics",
+    "url": "https://fqmt.fzu.cz/26/",
+    "dateDisplay": "Jul 26 – Aug 1, 2026",
+    "start": "2026-07-26",
+    "end": "2026-08-01",
+    "location": "Prague, Czech Republic",
+    "type": "Conference",
+    "categories": [
+      "quantum non-equilibrium",
+      "non-equilibrium",
+      "quantum information"
+    ],
+    "blurb": "Eleventh Prague FQMT meeting on non-equilibrium statistical physics, quantum many-body physics, foundations of quantum physics and quantum thermodynamics."
+  },
+  {
+    "name": "Gordon Research Conference: Polymer Physics",
+    "url": "https://grc.org/polymer-physics-conference/2026",
+    "dateDisplay": "Jul 26–31, 2026",
+    "start": "2026-07-26",
+    "end": "2026-07-31",
+    "location": "South Hadley, Massachusetts, USA",
+    "type": "Conference",
+    "categories": [
+      "soft matter"
+    ],
+    "deadline": "2026-06-28",
+    "blurb": "Gordon Research Conference linking polymer molecular design to structure and properties."
+  },
+  {
+    "name": "AI for Quantum Matter (KITP Program)",
+    "url": "https://www.kitp.ucsb.edu/programs",
+    "dateDisplay": "Jul 27 – Oct 8, 2026",
+    "start": "2026-07-27",
+    "end": "2026-10-08",
+    "location": "KITP, Santa Barbara, USA",
+    "type": "Program",
+    "categories": [
+      "machine learning",
+      "quantum information",
+      "quantum non-equilibrium"
+    ],
+    "blurb": "Extended KITP program on applying AI and machine learning to quantum many-body matter."
+  },
+  {
+    "name": "School on Open Quantum Systems: Theory and Experiment",
+    "url": "https://www.ictp-saifr.org/ssdoqste2026/",
+    "dateDisplay": "Jul 27 – Aug 7, 2026",
+    "start": "2026-07-27",
+    "end": "2026-08-07",
+    "location": "ICTP-SAIFR, São Paulo, Brazil",
+    "type": "School",
+    "categories": [
+      "quantum non-equilibrium",
+      "quantum information"
+    ],
+    "deadline": "2026-05-15",
+    "blurb": "School on driven-dissipative quantum systems — Lindblad dynamics, superradiance, non-Markovian dissipation and quantum error correction."
+  },
+  {
+    "name": "Physics of Collective Function in Active Living Matter (Aspen)",
+    "url": "https://aspenphys.org/summer-workshops/",
+    "dateDisplay": "Aug 9 – Sep 6, 2026",
+    "start": "2026-08-09",
+    "end": "2026-09-06",
+    "location": "Aspen, Colorado, USA",
+    "type": "Workshop",
+    "categories": [
+      "active matter",
+      "biophysics",
+      "non-equilibrium"
+    ],
+    "blurb": "Aspen summer workshop on how feedback, control and non-equilibrium physics generate function in living matter."
+  },
+  {
+    "name": "Quantum Thermodynamics Conference 2026 (QTD 2026)",
+    "url": "https://iip.ufrn.br/en/events/quantum-thermodynamics-conference",
+    "dateDisplay": "Aug 10–14, 2026",
+    "start": "2026-08-10",
+    "end": "2026-08-14",
+    "location": "Natal, Brazil",
+    "type": "Conference",
+    "categories": [
+      "quantum non-equilibrium",
+      "quantum information"
+    ],
+    "blurb": "The flagship annual quantum-thermodynamics meeting — fluctuation theorems, quantum heat engines, and work/heat/entropy at the quantum scale."
+  },
+  {
+    "name": "Bangalore School on Statistical Physics XVII",
+    "url": "https://www.icts.res.in/program/bssp2026",
+    "dateDisplay": "Aug 13–28, 2026",
+    "start": "2026-08-13",
+    "end": "2026-08-28",
+    "location": "RRI / ICTS, Bengaluru, India",
+    "type": "School",
+    "categories": [
+      "classical statmech",
+      "non-equilibrium",
+      "stochastic"
+    ],
+    "deadline": "2026-05-27",
+    "blurb": "Advanced pedagogical school (17th edition) bridging masters courses and research."
+  },
+  {
+    "name": "Machine Learning Photonics (Lake Como School)",
+    "url": "https://lakecomoschool.org/schools/",
+    "dateDisplay": "Aug 24–28, 2026",
+    "start": "2026-08-24",
+    "end": "2026-08-28",
+    "location": "Lake Como, Italy",
+    "type": "School",
+    "categories": [
+      "machine learning"
+    ],
+    "blurb": "Lake Como summer school on machine-learning methods applied to photonics."
+  },
+  {
+    "name": "Phase Separation, Condensation, and Self-Association in 2D and 3D",
+    "url": "https://www.linxs.se/events/2026/08/26-28",
+    "dateDisplay": "Aug 26–28, 2026",
+    "start": "2026-08-26",
+    "end": "2026-08-28",
+    "location": "Lund, Sweden",
+    "type": "Workshop",
+    "categories": [
+      "soft matter",
+      "biophysics"
+    ],
+    "blurb": "Workshop on phase separation, condensation and self-association from basic principles to life-science applications."
+  },
+  {
+    "name": "A School on Gradient Flows",
+    "url": "https://www.icts.res.in/programs/upcoming",
+    "dateDisplay": "Aug 31 – Sep 11, 2026",
+    "start": "2026-08-31",
+    "end": "2026-09-11",
+    "location": "ICTS, Bengaluru, India",
+    "type": "School",
+    "categories": [
+      "machine learning",
+      "non-equilibrium"
+    ],
+    "deadline": "2026-05-31",
+    "blurb": "Gradient-flow structures linking optimal transport, PDEs and dynamics far from equilibrium."
+  },
+  {
+    "name": "Quantum Many-body Systems out of Equilibrium: Relaxation, Thermalization, Ergodicity Breaking",
+    "url": "https://www.pks.mpg.de/qmbsoe26",
+    "dateDisplay": "Aug 31 – Sep 4, 2026",
+    "start": "2026-08-31",
+    "end": "2026-09-04",
+    "location": "MPI-PKS, Dresden, Germany",
+    "type": "Workshop",
+    "categories": [
+      "quantum non-equilibrium",
+      "non-equilibrium"
+    ],
+    "blurb": "MPI-PKS workshop on relaxation, thermalization (ETH) and ergodicity breaking in isolated quantum many-body systems."
+  },
+  {
+    "name": "SIFS2026 — 4th School of the Italian Society of Statistical Physics",
+    "url": "https://www.fisicastatistica.org/school-sifs",
+    "dateDisplay": "Sep 6–19, 2026",
+    "start": "2026-09-06",
+    "end": "2026-09-19",
+    "location": "Lecce, Italy",
+    "type": "School",
+    "categories": [
+      "non-equilibrium",
+      "biophysics",
+      "active matter",
+      "machine learning",
+      "quantum non-equilibrium"
+    ],
+    "blurb": "Two-week PhD school with sections in biophysics & active matter, disordered systems, machine learning & AI, and quantum physics."
+  },
+  {
+    "name": "From Quantum Matter to Quantum Computers (MPI-PKS School)",
+    "url": "https://www.pks.mpg.de/events/workshops-seminars",
+    "dateDisplay": "Sep 7–11, 2026",
+    "start": "2026-09-07",
+    "end": "2026-09-11",
+    "location": "MPI-PKS, Dresden, Germany",
+    "type": "School",
+    "categories": [
+      "quantum non-equilibrium",
+      "quantum information"
+    ],
+    "blurb": "Master's-level school bridging quantum many-body matter and quantum computing."
+  },
+  {
+    "name": "10th Edwards Symposium – Challenges in Soft Matter and Statistical Physics",
+    "url": "https://gateway.newton.ac.uk/event/tgm163/",
+    "dateDisplay": "Sep 9–11, 2026",
+    "start": "2026-09-09",
+    "location": "Cambridge, United Kingdom",
+    "type": "Conference",
+    "categories": [
+      "soft matter",
+      "classical statmech",
+      "stochastic",
+      "machine learning"
+    ],
+    "blurb": "The tenth edition of the Edwards Symposium series, held at the West Hub in Cambridge, covering dynamics of jammed matter, woven and filamentary soft materials, stochastic thermodynamics and optimal control, and physical and biological neural networks.",
+    "end": "2026-09-11"
+  },
+  {
+    "name": "School on Analytical and Numerical Methods for Disordered Quantum Systems",
+    "url": "https://www.ictp-saifr.org/2026-activities/",
+    "dateDisplay": "Sep 14–25, 2026",
+    "start": "2026-09-14",
+    "end": "2026-09-25",
+    "location": "ICTP-SAIFR, São Paulo, Brazil",
+    "type": "School",
+    "categories": [
+      "quantum non-equilibrium",
+      "classical statmech"
+    ],
+    "blurb": "School on analytical and numerical methods for disordered quantum systems."
+  },
+  {
+    "name": "Bridging Biomolecular Simulations and Experiments across Time and Length Scales",
+    "url": "https://www.cecam.org/workshop-details/1493",
+    "dateDisplay": "Sep 14–17, 2026",
+    "start": "2026-09-14",
+    "end": "2026-09-17",
+    "location": "Lausanne, Switzerland",
+    "type": "Workshop",
+    "categories": [
+      "biophysics"
+    ],
+    "blurb": "CECAM workshop linking biomolecular simulation and experiment from single molecules to organelles."
+  },
+  {
+    "name": "WNESP 2026 — Workshop on Non-equilibrium Statistical Physics",
+    "url": "https://www.ictp-saifr.org/wnesp2026/",
+    "dateDisplay": "2026 (see site)",
+    "start": "2026-09-15",
+    "end": "2026-09-19",
+    "location": "ICTP-SAIFR, São Paulo, Brazil",
+    "type": "Workshop",
+    "categories": [
+      "non-equilibrium",
+      "active matter",
+      "stochastic"
+    ],
+    "blurb": "From glasses and active matter to stochastic thermodynamics and complex networks."
+  },
+  {
+    "name": "SMBT 2026: Soft Matter & Biophysics Theories — Active Matter Theories",
+    "url": "https://indico.itp.ac.cn/event/413/",
+    "dateDisplay": "Sep 21–25, 2026",
+    "start": "2026-09-21",
+    "end": "2026-09-25",
+    "location": "ITP-CAS, Beijing, China",
+    "type": "Workshop",
+    "categories": [
+      "active matter",
+      "soft matter",
+      "biophysics"
+    ],
+    "deadline": "2026-07-31",
+    "blurb": "Annual ITP-CAS workshop; 2026 theme is active matter theories. No registration fee."
+  },
+  {
+    "name": "School & Workshop on Ultrafast Electronics Meets Quantum Thermodynamics",
+    "url": "https://indico.ictp.it/event/11164",
+    "dateDisplay": "Sep 21 – Oct 9, 2026",
+    "start": "2026-09-21",
+    "end": "2026-10-09",
+    "location": "ICTP, Trieste, Italy",
+    "type": "Workshop",
+    "categories": [
+      "quantum non-equilibrium",
+      "quantum information"
+    ],
+    "deadline": "2026-06-15",
+    "blurb": "School and workshop at the intersection of ultrafast coherent electronics and quantum thermodynamics."
+  },
+  {
+    "name": "50 years of Doi-Peliti field theory: applications to critical phenomena, condensed matter physics and active matter",
+    "url": "https://www.cecam.org/workshop-details/50-years-of-doi-peliti-field-theory-applications-to-critical-phenomena-condensed-matter-physics-and-active-matter-1561",
+    "dateDisplay": "Sep 22–25, 2026",
+    "start": "2026-09-22",
+    "location": "Cambridge, United Kingdom",
+    "type": "Conference",
+    "categories": [
+      "non-equilibrium",
+      "classical statmech",
+      "stochastic",
+      "active matter"
+    ],
+    "blurb": "A conference at Fitzwilliam College celebrating the 50th anniversary of Doi-Peliti field theory and its applications to stochastic many-body systems, critical phenomena, stochastic thermodynamics and active matter.",
+    "end": "2026-09-25",
+    "deadline": "2026-06-05"
+  },
+  {
+    "name": "The Physics of Collective Cell Dynamics and Morphogenesis (CDM26)",
+    "url": "https://sites.google.com/view/cdm26/home",
+    "dateDisplay": "Sep 22–25, 2026",
+    "start": "2026-09-22",
+    "location": "Oxford, United Kingdom",
+    "type": "Workshop",
+    "categories": [
+      "active matter",
+      "biophysics",
+      "soft matter",
+      "non-equilibrium"
+    ],
+    "blurb": "A four-day symposium at the Rudolf Peierls Centre for Theoretical Physics on force generation in cells and tissues, mechano-chemical self-organisation and active-matter approaches to morphogenesis.",
+    "end": "2026-09-25"
+  },
+  {
+    "name": "Two and a Half Decades of the Macroscopic Fluctuation Theory",
+    "url": "https://www.icts.res.in/programs/upcoming",
+    "dateDisplay": "Sep 28 – Oct 9, 2026",
+    "start": "2026-09-28",
+    "end": "2026-10-09",
+    "location": "ICTS, Bengaluru, India",
+    "type": "Program",
+    "categories": [
+      "non-equilibrium",
+      "hydrodynamics",
+      "stochastic"
+    ],
+    "blurb": "Marking 25+ years of MFT — large deviations and hydrodynamics of driven diffusive systems."
+  },
+  {
+    "name": "Artificial Intelligence at the Quantum Frontier (KITP Conference)",
+    "url": "https://www.kitp.ucsb.edu/activities/aiqmatter_c26",
+    "dateDisplay": "Sep 28 – Oct 1, 2026",
+    "start": "2026-09-28",
+    "end": "2026-10-01",
+    "location": "KITP, Santa Barbara, USA",
+    "type": "Conference",
+    "categories": [
+      "machine learning",
+      "quantum information"
+    ],
+    "deadline": "2026-08-28",
+    "blurb": "Conference on the frontier where machine learning meets quantum physics — neural quantum states, ML for quantum control, and quantum learning theory."
+  },
+  {
+    "name": "Phases of Collective Cellular Behavior: Rheology, Order & Feedback (MPI-PKS)",
+    "url": "https://www.pks.mpg.de/colcel26",
+    "dateDisplay": "Oct 5–9, 2026",
+    "start": "2026-10-05",
+    "end": "2026-10-09",
+    "location": "MPI-PKS, Dresden, Germany",
+    "type": "Workshop",
+    "categories": [
+      "active matter",
+      "biophysics"
+    ],
+    "blurb": "MPI-PKS workshop on rheology, ordering and feedback in collective cellular behavior."
+  },
+  {
+    "name": "Fluctuations in Charged and Soft Matter",
+    "url": "https://www.cecam.org/workshop-details/1526",
+    "dateDisplay": "Oct 5–8, 2026",
+    "start": "2026-10-05",
+    "end": "2026-10-08",
+    "location": "Paris, France",
+    "type": "Workshop",
+    "categories": [
+      "soft matter"
+    ],
+    "blurb": "CECAM workshop on fluctuation phenomena in charged and soft-matter systems."
+  },
+  {
+    "name": "ESPResSo Summer School: Studying dynamics in soft matter and porous materials",
+    "url": "https://www.cecam.org/workshop-details/1510",
+    "dateDisplay": "Oct 5–9, 2026",
+    "start": "2026-10-05",
+    "location": "Stuttgart, Germany",
+    "type": "School",
+    "categories": [
+      "soft matter",
+      "hydrodynamics",
+      "active matter",
+      "machine learning"
+    ],
+    "blurb": "A hands-on school teaching multiscale coarse-grained and machine-learning-assisted simulation of soft, active and porous matter dynamics using the ESPResSo and waLBerla codes.",
+    "end": "2026-10-09"
+  },
+  {
+    "name": "Phases, Caustics and Chaos: Classical and Quantum Aspects",
+    "url": "https://www.icts.res.in/programs/upcoming",
+    "dateDisplay": "Oct 12–16, 2026",
+    "start": "2026-10-12",
+    "end": "2026-10-16",
+    "location": "ICTS, Bengaluru, India",
+    "type": "Program",
+    "categories": [
+      "quantum non-equilibrium",
+      "classical statmech"
+    ],
+    "blurb": "Caustics, chaos and phase-space structure across classical and quantum dynamics."
+  },
+  {
+    "name": "Quantum Thermalization Breakdown: Localization and Multifractality (Nordita)",
+    "url": "https://indico.fysik.su.se/event/9690/",
+    "dateDisplay": "Oct 12–16, 2026",
+    "start": "2026-10-12",
+    "end": "2026-10-16",
+    "location": "Nordita, Stockholm, Sweden",
+    "type": "Workshop",
+    "categories": [
+      "quantum non-equilibrium"
+    ],
+    "blurb": "Nordita workshop on many-body localization, multifractality and the breakdown of thermalization."
+  },
+  {
+    "name": "Hydrodynamics of Active Matter",
+    "url": "https://www.pks.mpg.de/haam26",
+    "dateDisplay": "Nov 9–13, 2026",
+    "start": "2026-11-09",
+    "end": "2026-11-13",
+    "location": "MPI-PKS, Dresden, Germany",
+    "type": "Workshop",
+    "categories": [
+      "hydrodynamics",
+      "active matter"
+    ],
+    "blurb": "Max Planck workshop on hydrodynamic approaches to active matter."
+  },
+  {
+    "name": "New Frontiers in Nonequilibrium Statistical Physics of Glasses",
+    "url": "https://www.cecam.org/workshop-details/1497",
+    "dateDisplay": "Nov 30 – Dec 4, 2026",
+    "start": "2026-11-30",
+    "end": "2026-12-04",
+    "location": "Vienna, Austria",
+    "type": "Workshop",
+    "categories": [
+      "non-equilibrium",
+      "soft matter",
+      "stochastic"
+    ],
+    "blurb": "CECAM workshop on the non-equilibrium statistical physics of glassy systems."
+  },
+  {
+    "name": "Open Quantum Systems — from Quantum Information to Condensed Matter",
+    "url": "https://www.ictp.it/cmsp",
+    "dateDisplay": "Dec 7–18, 2026",
+    "start": "2026-12-07",
+    "end": "2026-12-18",
+    "location": "ICTP, Trieste, Italy",
+    "type": "Workshop",
+    "categories": [
+      "quantum non-equilibrium",
+      "quantum information"
+    ],
+    "deadline": "2026-08-31",
+    "blurb": "School and workshop bridging quantum-information and condensed-matter perspectives on open quantum systems."
+  },
+  {
+    "name": "Winter School on Biological Physics (ICTS)",
+    "url": "https://www.icts.res.in/program/wsbp",
+    "dateDisplay": "Dec 21, 2026 – Jan 1, 2027",
+    "start": "2026-12-21",
+    "end": "2027-01-01",
+    "location": "ICTS, Bengaluru, India",
+    "type": "School",
+    "categories": [
+      "biophysics"
+    ],
+    "blurb": "ICTS winter school on biological physics."
+  },
+  {
+    "name": "Theory & Simulation of Biomolecular Phase Separation and Aggregation",
+    "url": "https://www.cecam.org/workshop-details/1272",
+    "dateDisplay": "Jan 11–14, 2027",
+    "start": "2027-01-11",
+    "end": "2027-01-14",
+    "location": "Zürich, Switzerland",
+    "type": "Workshop",
+    "categories": [
+      "biophysics",
+      "soft matter"
+    ],
+    "blurb": "CECAM workshop on biomolecular condensates, phase separation and aggregation."
+  },
+  {
+    "name": "From Richardson's Diffusion to Spontaneous Stochasticity (ICTS)",
+    "url": "https://www.icts.res.in/program/FRDSS",
+    "dateDisplay": "Feb 15–26, 2027",
+    "start": "2027-02-15",
+    "end": "2027-02-26",
+    "location": "ICTS, Bengaluru, India",
+    "type": "Program",
+    "categories": [
+      "hydrodynamics",
+      "stochastic"
+    ],
+    "blurb": "ICTS program tracing a century of turbulent dispersion, from Richardson diffusion to spontaneous stochasticity."
+  },
+  {
+    "name": "Les Houches: New Challenges in Turbulence Research VIII",
+    "url": "https://www.houches-school-physics.com/program/program-2027/new-challenges-in-turbulence-research-viii-nctr-viii--1733311.kjsp",
+    "dateDisplay": "Feb 21–26, 2027",
+    "start": "2027-02-21",
+    "end": "2027-02-26",
+    "location": "Les Houches, France",
+    "type": "School",
+    "categories": [
+      "hydrodynamics"
+    ],
+    "blurb": "Thematic school on the interaction between turbulent flows and objects — particles, interfaces, flexible structures and living organisms."
+  },
+  {
+    "name": "Les Houches: Out of Equilibrium Physics in Low Dimensional Quantum Fluids",
+    "url": "https://www.houches-school-physics.com/program/program-2027/out-of-equilibrium-physics-in-low-dimensional-quantum-fluids-1733582.kjsp",
+    "dateDisplay": "Mar 14–19, 2027",
+    "start": "2027-03-14",
+    "end": "2027-03-19",
+    "location": "Les Houches, France",
+    "type": "Workshop",
+    "categories": [
+      "quantum non-equilibrium",
+      "hydrodynamics"
+    ],
+    "blurb": "Out-of-equilibrium dynamics of 1D and 2D quantum fluids — non-linear hydrodynamics, thermalisation and driven dynamics on atomic and photonic platforms."
+  },
+  {
+    "name": "Physics of Life 2027",
+    "url": "https://iop-physics-of-life-2027.eventsairsite.com",
+    "dateDisplay": "Mar 22–25, 2027",
+    "start": "2027-03-22",
+    "location": "Edinburgh, United Kingdom",
+    "type": "Conference",
+    "categories": [
+      "biophysics",
+      "soft matter",
+      "active matter"
+    ],
+    "blurb": "The large biennial IOP-organised conference drawing together the biological physics community, with parallel sessions spanning active and living matter, biomolecular condensates and physics of disease.",
+    "end": "2027-03-25"
+  },
+  {
+    "name": "Les Houches School: Mathematical Statistical Physics",
+    "url": "https://www.houches-school-physics.com/program/program-2027/doctoral-training-mathematical-statistical-physics-school-1739063.kjsp",
+    "dateDisplay": "May 10–21, 2027",
+    "start": "2027-05-10",
+    "end": "2027-05-21",
+    "location": "Les Houches, France",
+    "type": "School",
+    "categories": [
+      "classical statmech",
+      "stochastic"
+    ],
+    "blurb": "New edition (after 1984 & 2005) on random geometry, disordered systems and graph theory."
+  },
+  {
+    "name": "Statistical Physics & Neurobiology of Learning in High-Level Cognition (KITP)",
+    "url": "https://www.kitp.ucsb.edu/activities/cognition27",
+    "dateDisplay": "Jun 21 – Jul 29, 2027",
+    "start": "2027-06-21",
+    "end": "2027-07-29",
+    "location": "KITP, Santa Barbara, USA",
+    "type": "Program",
+    "categories": [
+      "machine learning",
+      "biophysics"
+    ],
+    "blurb": "Six-week KITP program linking statistical physics, machine learning, neurobiology and cognitive science to study learning and emergent cognition."
+  },
+  {
+    "name": "Les Houches: Adaptive Measurements and Dissipation Engineering in Quantum Systems",
+    "url": "https://www.houches-school-physics.com/program/program-2027/summer-school-adaptive-measurements-and-dissipation-engineering-in-quantum-systems-1736630.kjsp",
+    "dateDisplay": "Aug 2–27, 2027",
+    "start": "2027-08-02",
+    "end": "2027-08-27",
+    "location": "Les Houches, France",
+    "type": "School",
+    "categories": [
+      "quantum non-equilibrium"
+    ],
+    "blurb": "Summer school on protecting quantum systems from decoherence via measurement-based and autonomous feedback."
+  },
+  {
+    "name": "Les Houches: Frontiers of Search in Heterogeneous Environments",
+    "url": "https://www.houches-school-physics.com/program/program-2027/frontiers-of-search-in-heterogeneous-environments-from-markovian-to-non-markovian-dynamics-1735144.kjsp",
+    "dateDisplay": "Aug 29 – Sep 3, 2027",
+    "start": "2027-08-29",
+    "end": "2027-09-03",
+    "location": "Les Houches, France",
+    "type": "Workshop",
+    "categories": [
+      "stochastic",
+      "non-equilibrium",
+      "biophysics"
+    ],
+    "blurb": "Search processes and first-passage statistics in heterogeneous environments, from Markovian to non-Markovian dynamics with memory effects."
+  }
 ]
