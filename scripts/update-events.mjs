@@ -1,4 +1,4 @@
-// Weekly event updater: asks Claude (with web search) for new statmech events,
+// Monthly event updater: asks Claude (with web search) for new statmech events,
 // validates them, merges into src/events.json, and prunes events that ended
 // more than PRUNE_AFTER_DAYS ago. Run by .github/workflows/update-events.yml.
 import fs from "node:fs";
