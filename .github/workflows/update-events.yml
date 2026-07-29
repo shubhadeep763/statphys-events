@@ -1,0 +1,39 @@
+name: Weekly event update
+
+on:
+  schedule:
+    - cron: "0 3 * * 1" # every Monday 03:00 UTC (08:30 IST)
+  workflow_dispatch: {} # allows manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Search for new events and update events.json
+        run: node scripts/update-events.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet src/events.json; then
+            echo "No changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add src/events.json
+            git commit -m "chore: weekly automated event update"
+            git push
+          fi
