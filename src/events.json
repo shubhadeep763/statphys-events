@@ -788,6 +788,21 @@
     "end": "2026-10-09"
   },
   {
+    "name": "Workshop ISM2026 — Annual Workshop of the CNRS Research Network Interfacial Soft Matter",
+    "url": "https://gdr-ism.cnrs.fr/2026/05/07/workshop-ism2026/",
+    "dateDisplay": "Oct 5–7, 2026",
+    "start": "2026-10-05",
+    "location": "Montpellier, France",
+    "type": "Workshop",
+    "categories": [
+      "soft matter",
+      "non-equilibrium",
+      "hydrodynamics"
+    ],
+    "blurb": "Annual meeting of the CNRS Interfacial Soft Matter network at Institut Charles Gerhardt, covering mechanics and flow at interfaces, complex out-of-equilibrium interfaces, confinement and functional interfaces.",
+    "end": "2026-10-07"
+  },
+  {
     "name": "Phases, Caustics and Chaos: Classical and Quantum Aspects",
     "url": "https://www.icts.res.in/programs/upcoming",
     "dateDisplay": "Oct 12–16, 2026",
@@ -813,6 +828,20 @@
       "quantum non-equilibrium"
     ],
     "blurb": "Nordita workshop on many-body localization, multifractality and the breakdown of thermalization."
+  },
+  {
+    "name": "The Confluence of Biomembrane Sciences",
+    "url": "https://gem-2026.sciencesconf.org/",
+    "dateDisplay": "Nov 4–6, 2026",
+    "start": "2026-11-04",
+    "location": "Lyon, France",
+    "type": "Conference",
+    "categories": [
+      "biophysics",
+      "soft matter"
+    ],
+    "blurb": "A conference bringing together the biomembrane community across physics, chemistry and biology to discuss membrane structure, mechanics and dynamics.",
+    "end": "2026-11-06"
   },
   {
     "name": "Hydrodynamics of Active Matter",
@@ -996,5 +1025,32 @@
       "biophysics"
     ],
     "blurb": "Search processes and first-passage statistics in heterogeneous environments, from Markovian to non-Markovian dynamics with memory effects."
+  },
+  {
+    "name": "South American School on the Physics of Inference and Learning",
+    "url": "https://www.ictp-saifr.org/2027-activities/",
+    "dateDisplay": "Oct 25, 2027 – Nov 5, 2027",
+    "start": "2027-10-25",
+    "location": "São Paulo, Brazil",
+    "type": "School",
+    "categories": [
+      "machine learning",
+      "classical statmech"
+    ],
+    "blurb": "An ICTP-SAIFR school training students in the statistical-physics approach to inference, learning and high-dimensional data.",
+    "end": "2027-11-05"
+  },
+  {
+    "name": "State-of-the-art Applications of Machine Learning in Physics",
+    "url": "https://www.ictp-saifr.org/2027-activities/",
+    "dateDisplay": "Nov 15–26, 2027",
+    "start": "2027-11-15",
+    "location": "São Paulo, Brazil",
+    "type": "School",
+    "categories": [
+      "machine learning"
+    ],
+    "blurb": "A two-week ICTP-SAIFR activity on current machine-learning methods and their applications across physics, including many-body and statistical systems.",
+    "end": "2027-11-26"
   }
 ]
